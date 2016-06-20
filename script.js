@@ -104,17 +104,19 @@
 //window.console.log(x + y);
 
 //STEP 18
-//var x = 20 + 20;
+//var x = 20;
+//x += 20;
 //window.console.log(x);
 
 //STEP 19
-//var x = 20 * 5;
+//var x = 20;
+//x = *= 5;
 //window.console.log(x);
 
 //STEP 20
-//var x = 20 % 3 / 1;
+//var x = 20 % 3;
+//x /= 1;
 //window.console.log(x);
-//if 20 % 3 = 2 then what is the point of dividing by 1? thinking I may have misunderstood the instruction here
 
 //STEP 21
 //var x = 1
